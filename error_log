@@ -1,0 +1,6 @@
+[24-Jan-2023 14:38:43 UTC] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/imsuedusite/public_html/all-faculties/index.php on line 3
+[24-Jan-2023 14:55:37 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imsuedusite/public_html/index.php on line 19
+[24-Jan-2023 14:55:43 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imsuedusite/public_html/index.php on line 19
+[24-Jan-2023 14:56:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imsuedusite/public_html/index.php on line 19
+[24-Jan-2023 14:58:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imsuedusite/public_html/index.php on line 19
+[24-Jan-2023 15:37:52 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/imsuedusite/public_html/all-faculties/list.faculties.php on line 79
