@@ -102,20 +102,20 @@
                         <div class="col-lg-6">
                              <div class="faculty-box">
                                 <i class="fab fa fa-book mr-3"></i>
-                                Faculty Of Education
+Faculty Of Agriculture & Veterinary Medicine
                             </div>
                         </div>
                         <div class="col-lg-6">
                              <div class="faculty-box reverse">
                                 <i class="fab fa fa-book mr-3"></i>
-                                Faculty Of Education
+Faculty Of Business Administration (Management Sciences)
                             </div>
                         </div>
                         
                         <div class="col-lg-6">
                             <div class="faculty-box reverse">
                                 <i class="fab fa fa-anchor mr-3"></i>
-                                Faculty Of Engineering
+                                Faculty Of Education
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -131,26 +131,26 @@
                         <div class="col-lg-6">
                             <div class="faculty-box ">
                                 <i class="fab fa fa-anchor mr-3"></i>
-                                Faculty Of Engineering
+                                Faculty Of Environmental Sciences
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="faculty-box reverse">
                                 <i class="fab fa fa-anchor mr-3"></i>
-                                Faculty Of Engineering
+                                Faculty Of Humanities
                             </div>
                         </div>
                         
                         <div class="col-lg-6">
                              <div class="faculty-box reverse">
                                 <i class="fab fa fa-book mr-3"></i>
-                                Faculty Of Education
+                                Faculty Of Law
                             </div>
                         </div>
                         <div class="col-lg-6">
                              <div class="faculty-box">
                                 <i class="fab fa fa-book mr-3"></i>
-                                Faculty Of Education
+                                Faculty Of Biological Sciences
                             </div>
                         </div>
                     </div>
@@ -159,26 +159,26 @@
                         <div class="col-lg-6">
                              <div class="faculty-box">
                                 <i class="fab fa fa-book mr-3"></i>
-                                Faculty Of Education
+                                Faculty Of Physical Sciences
                             </div>
                         </div>
                         <div class="col-lg-6">
                              <div class="faculty-box reverse">
                                 <i class="fab fa fa-book mr-3"></i>
-                                Faculty Of Education
+                                Faculty Of Social Sciences
                             </div>
                         </div>
                         
                         <div class="col-lg-6">
                             <div class="faculty-box reverse">
                                 <i class="fab fa fa-anchor mr-3"></i>
-                                Faculty Of Engineering
+                                Faculty Of Health Sciences
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="faculty-box ">
                                 <i class="fab fa fa-anchor mr-3"></i>
-                                Faculty Of Engineering
+                                Faculty Of Basic Medical Sciences
                             </div>
                         </div>
                     </div>
@@ -188,13 +188,13 @@
                         <div class="col-lg-6">
                             <div class="faculty-box ">
                                 <i class="fab fa fa-anchor mr-3"></i>
-                                Faculty Of Engineering
+                                Faculties Of Basic Clinical
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="faculty-box reverse">
                                 <i class="fab fa fa-anchor mr-3"></i>
-                                Faculty Of Engineering
+                                Faculty Of Clinical Medicine
                             </div>
                         </div>
                         
