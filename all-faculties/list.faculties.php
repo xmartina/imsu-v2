@@ -24,10 +24,10 @@
         cursor:pointer;
     }
     .faculty-box{
-        padding:1.8em;
+        padding:1.5em;
         background-color:#02294F;
         color:#fff;
-        font-size:1.5em;
+        font-size:1.1em;
         font-weight:500;
     }
     .faculty-box.pr-1{
