@@ -30,7 +30,7 @@ require_once ('header.php');
             color: #0e0e0e;
         }
         .m-15-cus{
-            margin: .2em 2.3em;
+            margin: 1.2em 0;
         }
     </style>
     <div class="department-block">
