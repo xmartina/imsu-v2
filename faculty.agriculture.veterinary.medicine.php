@@ -5,6 +5,9 @@ require_once ('header.php');
         .pb-3em{
             padding-bottom:1.3em;
         }
+        .department-block{
+            margin: 4em 0;
+        }
         .img-box.bg-1{
             background-image: url('https://imsu.edu.ng/assets/img/imsu/campus.jpeg');
         }
@@ -16,13 +19,13 @@ require_once ('header.php');
             border-top-left-radius: .3em;
         }
         .department-body{
-            border-left: .1em solid #0a2444;
-            padding-top: 1.2em;
-            padding-bottom: .7em;
+            border-left: .4em solid #0a2444;
+            padding-top: 1.8em;
+            padding-bottom: 1.9em;
             box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
         }
         .department-name{
-            padding-left: .2em;
+            padding-left: .6em;
             font-size: 1.7em;
             color: #0e0e0e;
         }
