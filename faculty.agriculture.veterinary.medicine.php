@@ -10,7 +10,7 @@ require_once ('header.php');
         }
         .img-box{
             width: 100%;
-            height: 23em;
+            height: 16em;
             background-size: cover;
         }
         .department-body{
