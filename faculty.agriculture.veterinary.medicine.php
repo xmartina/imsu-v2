@@ -46,7 +46,46 @@ require_once ('header.php');
                         </div>
                     </div>
                 </div>
-
+                <div class="col-lg-4">
+                    <div class="department-head">
+                        <div class="img-box bg-1"></div>
+                    </div>
+                    <div class="department-body">
+                        <div class="department-name">
+                            Soil Science Department
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="department-head">
+                        <div class="img-box bg-1"></div>
+                    </div>
+                    <div class="department-body">
+                        <div class="department-name">
+                            Soil Science Department
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="department-head">
+                        <div class="img-box bg-1"></div>
+                    </div>
+                    <div class="department-body">
+                        <div class="department-name">
+                            Soil Science Department
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="department-head">
+                        <div class="img-box bg-1"></div>
+                    </div>
+                    <div class="department-body">
+                        <div class="department-name">
+                            Soil Science Department
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
