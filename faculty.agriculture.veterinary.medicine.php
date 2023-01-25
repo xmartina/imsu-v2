@@ -36,7 +36,7 @@ require_once ('header.php');
                 <?php echo $pageName ? $pageName: 'All Faculties'; ?>
             </h2>
             <div class="row gy-5 gx-3">
-                <div class="col-lg-4">
+                <div class="col-lg-4 p-3">
                     <div class="department-head">
                         <div class="img-box bg-1"></div>
                     </div>
@@ -46,7 +46,7 @@ require_once ('header.php');
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4 p-3">
                     <div class="department-head">
                         <div class="img-box bg-1"></div>
                     </div>
@@ -56,7 +56,7 @@ require_once ('header.php');
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4 p-3">
                     <div class="department-head">
                         <div class="img-box bg-1"></div>
                     </div>
@@ -66,7 +66,7 @@ require_once ('header.php');
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4 p-3">
                     <div class="department-head">
                         <div class="img-box bg-1"></div>
                     </div>
@@ -76,7 +76,7 @@ require_once ('header.php');
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4 p-3">
                     <div class="department-head">
                         <div class="img-box bg-1"></div>
                     </div>
