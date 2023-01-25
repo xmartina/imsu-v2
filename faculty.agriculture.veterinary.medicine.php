@@ -12,12 +12,17 @@ require_once ('header.php');
             width: 100%;
             height: 16em;
             background-size: cover;
+            border-top-right-radius: .3em;
+            border-top-left-radius: .3em;
         }
         .department-body{
+            border-left: .1em solid #0a2444;
             padding-top: 1.2em;
             padding-bottom: .7em;
+            box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
         }
         .department-name{
+            padding-left: .2em;
             font-size: 1.7em;
             color: #0e0e0e;
         }
