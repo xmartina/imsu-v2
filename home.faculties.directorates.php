@@ -106,7 +106,7 @@
                 <div class="col-lg-4 col-md-6"></div>
                 <div class="col-lg-4 col-md-6"></div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="view-all-faculty-btn">
+                    <div class="view-all-faculty-btn" onClick="location.href='all.faculties.php'">
                         View All Faculties <i class="ml-15 pt-2 fa fa-caret-right" aria-hidden="true"></i>
                     </div>
                 </div>

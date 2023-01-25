@@ -100,7 +100,7 @@
                     
                     <div class="row">
                         <div class="col-lg-6">
-                             <div class="faculty-box">
+                             <div class="faculty-box" onClick="location.href='agri'">
                                 <i class="fab fa fa-book mr-3"></i>
 Faculty Of Agriculture & Veterinary Medicine
                             </div>

@@ -1,0 +1,1 @@
+faculty.business.administration
