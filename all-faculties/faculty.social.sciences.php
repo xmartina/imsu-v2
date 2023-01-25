@@ -1,1 +1,0 @@
-faculty.social.sciences.php

@@ -100,26 +100,26 @@
                     
                     <div class="row">
                         <div class="col-lg-6">
-                             <div class="faculty-box" onClick="location.href='agri'">
+                             <div class="faculty-box" onClick="location.href='faculty.agriculture.veterinary.medicine.php'">
                                 <i class="fab fa fa-book mr-3"></i>
 Faculty Of Agriculture & Veterinary Medicine
                             </div>
                         </div>
                         <div class="col-lg-6">
-                             <div class="faculty-box reverse">
+                             <div class="faculty-box reverse" onClick="location.href='faculty.business.administration.php'">
                                 <i class="fab fa fa-book mr-3"></i>
 Faculty Of Business Administration (Management Sciences)
                             </div>
                         </div>
                         
                         <div class="col-lg-6">
-                            <div class="faculty-box reverse">
+                            <div class="faculty-box reverse" onClick="location.href='faculty.education.php'">
                                 <i class="fab fa fa-anchor mr-3"></i>
                                 Faculty Of Education
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            <div class="faculty-box ">
+                            <div class="faculty-box " onClick="location.href='faculty.engineering.php'">
                                 <i class="fab fa fa-anchor mr-3"></i>
                                 Faculty Of Engineering
                             </div>
@@ -129,26 +129,26 @@ Faculty Of Business Administration (Management Sciences)
                     <div class="row">    
                         
                         <div class="col-lg-6">
-                            <div class="faculty-box ">
+                            <div class="faculty-box " onClick="location.href='faculty.environmental.sciences.php'">
                                 <i class="fab fa fa-anchor mr-3"></i>
                                 Faculty Of Environmental Sciences
                             </div>
                         </div>
-                        <div class="col-lg-6">
-                            <div class="faculty-box reverse">
+                        <div class="col-lg-6"><a href=""></a>
+                            <div class="faculty-box reverse" onClick="location.href='faculty.humanity.php'">
                                 <i class="fab fa fa-anchor mr-3"></i>
                                 Faculty Of Humanities
                             </div>
                         </div>
                         
                         <div class="col-lg-6">
-                             <div class="faculty-box reverse">
+                             <div class="faculty-box reverse" onClick="location.href='faculty.law.php'">
                                 <i class="fab fa fa-book mr-3"></i>
                                 Faculty Of Law
                             </div>
                         </div>
                         <div class="col-lg-6">
-                             <div class="faculty-box">
+                             <div class="faculty-box" onclick="location.href='faculty.biological.science.php'">
                                 <i class="fab fa fa-book mr-3"></i>
                                 Faculty Of Biological Sciences
                             </div>
@@ -157,26 +157,26 @@ Faculty Of Business Administration (Management Sciences)
                     
                     <div class="row">
                         <div class="col-lg-6">
-                             <div class="faculty-box">
+                             <div class="faculty-box" onclick="location.href='faculty.physical.sciences.php'">
                                 <i class="fab fa fa-book mr-3"></i>
                                 Faculty Of Physical Sciences
                             </div>
                         </div>
                         <div class="col-lg-6">
-                             <div class="faculty-box reverse">
+                             <div class="faculty-box reverse" onclick="location.href='faculty.social.sciences.php'">
                                 <i class="fab fa fa-book mr-3"></i>
                                 Faculty Of Social Sciences
                             </div>
                         </div>
                         
-                        <div class="col-lg-6">
-                            <div class="faculty-box reverse">
+                        <div class="col-lg-6"><a href="faculty.health.sciences.php"></a>
+                            <div class="faculty-box reverse" onclick="location.href='faculty.health.sciences.php'">
                                 <i class="fab fa fa-anchor mr-3"></i>
                                 Faculty Of Health Sciences
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            <div class="faculty-box ">
+                            <div class="faculty-box" onclick="location.href='faculty.basic.medical.sciences.php'">
                                 <i class="fab fa fa-anchor mr-3"></i>
                                 Faculty Of Basic Medical Sciences
                             </div>
@@ -186,13 +186,13 @@ Faculty Of Business Administration (Management Sciences)
                     <div class="row">    
                         
                         <div class="col-lg-6">
-                            <div class="faculty-box ">
+                            <div class="faculty-box " onclick="location.href='faculty.basic.clinical.php'">
                                 <i class="fab fa fa-anchor mr-3"></i>
                                 Faculties Of Basic Clinical
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            <div class="faculty-box reverse">
+                            <div class="faculty-box reverse" onclick="location.href='faculty.clinical.medicine.php'">
                                 <i class="fab fa fa-anchor mr-3"></i>
                                 Faculty Of Clinical Medicine
                             </div>
