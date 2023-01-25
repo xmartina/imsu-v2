@@ -29,6 +29,9 @@ require_once ('header.php');
             font-size: 1.7em;
             color: #0e0e0e;
         }
+        .m-15{
+            margin: .2em;
+        }
     </style>
     <div class="department-block">
         <div class="container">
@@ -36,7 +39,7 @@ require_once ('header.php');
                 <?php echo $pageName ? $pageName: 'All Faculties'; ?>
             </h2>
             <div class="row gy-5 gx-3">
-                <div class="col-lg-4">
+                <div class="col-lg-4 m-15">
                     <div class="department-head">
                         <div class="img-box bg-1"></div>
                     </div>
@@ -46,7 +49,7 @@ require_once ('header.php');
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4 m-15">
                     <div class="department-head">
                         <div class="img-box bg-1"></div>
                     </div>
@@ -56,7 +59,7 @@ require_once ('header.php');
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4 m-15">
                     <div class="department-head">
                         <div class="img-box bg-1"></div>
                     </div>
@@ -66,7 +69,7 @@ require_once ('header.php');
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4 m-15">
                     <div class="department-head">
                         <div class="img-box bg-1"></div>
                     </div>
@@ -76,7 +79,7 @@ require_once ('header.php');
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4 m-15">
                     <div class="department-head">
                         <div class="img-box bg-1"></div>
                     </div>
