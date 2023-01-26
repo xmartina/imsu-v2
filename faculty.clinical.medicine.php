@@ -48,7 +48,7 @@ require_once ('header.php');
             margin: 1.2em 0;
         }
         .mb-15-cus{
-            margin-bottom: 1.2em;
+            margin-bottom: 1.8em;
         }
         .fa-styling.fa{
             display:none;
