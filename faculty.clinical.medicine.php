@@ -75,7 +75,6 @@ require_once ('header.php');
         }
         .other-department-head{
             font-size: 1.2em;
-            color: #0b0b0b;
         }
         .explore-other-department{
             font-size: 1.5em;
@@ -92,6 +91,9 @@ require_once ('header.php');
         .hover-move-left:hover{
             padding-left: 2.3em;
             transition: all 200ms ease-out;
+        }
+        .hover-move-left .border-blue-1em{
+            color: #010f18;
         }
         .hover-move-left:hover .border-blue-1em{
             background-color: #0a2444;
