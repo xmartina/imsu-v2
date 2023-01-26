@@ -12,6 +12,7 @@ require_once ('header.php');
             background-image: url('https://imsu.edu.ng/assets/img/imsu/campus.jpeg');
         }
         .img-box{
+            cursor: pointer;
             width: 100%;
             height: 8em;
             position: relative;
