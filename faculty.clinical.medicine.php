@@ -36,7 +36,7 @@ require_once ('header.php');
             display:none;
         }
         .department-name:hover .fa-styling.fa{
-            display:block;
+            display:inline-block;
             transition: all 2s ease-in-out;
         }
     </style>
