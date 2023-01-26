@@ -61,6 +61,22 @@ require_once ('header.php');
             padding-left: .2em;
             transition: all 4s ease-in-out;
         }
+        .other-departments-img-box{
+            width: 100%;
+            height: 7em;
+            border-radius: .2em;
+            background-size: cover;
+
+        }
+        .other-departments-img-box.img-1{
+            background-image: url('https://imsu.edu.ng/assets/img/imsu/post_grad-3.jpg');
+        }
+        .other-department-head{
+            font-size: 1.2em;
+        }
+        .explore-other-department{
+            font-size: .7em;
+        }
     </style>
     <div class="department-block">
         <div class="container">
@@ -68,87 +84,71 @@ require_once ('header.php');
                 <?php echo $pageName ? $pageName: 'Faculty Of Clinical Medicine'; ?>
             </h2>
             <div class="row gy-5 gx-3">
-                <div class="col-lg-4 m-15-cus">
-                    <div class="department-head">
-                        <div class="img-box bg-1">
-                            <div class="img-box-hover"></div>
+                <div class="col-lg-8">
+                    <div class="row">
+                        <div class="col-lg-6 m-15-cus">
+                            <div class="department-head">
+                                <div class="img-box bg-1">
+                                    <div class="img-box-hover"></div>
+                                </div>
+                            </div>
+                            <div class="department-body">
+                                <div class="department-name">
+                                    Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="department-body">
-                        <div class="department-name">
-                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
+                        <div class="col-lg-6 m-15-cus">
+                            <div class="department-head">
+                                <div class="img-box bg-1">
+                                    <div class="img-box-hover"></div>
+                                </div>
+                            </div>
+                            <div class="department-body">
+                                <div class="department-name">
+                                    Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 m-15-cus">
-                    <div class="department-head">
-                        <div class="img-box bg-1">
-                            <div class="img-box-hover"></div>
+                        <div class="col-lg-6 m-15-cus">
+                            <div class="department-head">
+                                <div class="img-box bg-1">
+                                    <div class="img-box-hover"></div>
+                                </div>
+                            </div>
+                            <div class="department-body">
+                                <div class="department-name">
+                                    Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="department-body">
-                        <div class="department-name">
-                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 m-15-cus">
-                    <div class="department-head">
-                        <div class="img-box bg-1">
-                            <div class="img-box-hover"></div>
-                        </div>
-                    </div>
-                    <div class="department-body">
-                        <div class="department-name">
-                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 m-15-cus">
-                    <div class="department-head">
-                        <div class="img-box bg-1">
-                            <div class="img-box-hover"></div>
-                        </div>
-                    </div>
-                    <div class="department-body">
-                        <div class="department-name">
-                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 m-15-cus">
-                    <div class="department-head">
-                        <div class="img-box bg-1">
-                            <div class="img-box-hover"></div>
-                        </div>
-                    </div>
-                    <div class="department-body">
-                        <div class="department-name">
-                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
+                        <div class="col-lg-6 m-15-cus">
+                            <div class="department-head">
+                                <div class="img-box bg-1">
+                                    <div class="img-box-hover"></div>
+                                </div>
+                            </div>
+                            <div class="department-body">
+                                <div class="department-name">
+                                    Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 m-15-cus">
-                    <div class="department-head">
-                        <div class="img-box bg-1">
-                            <div class="img-box-hover"></div>
-                        </div>
+<!--                Start SidBar-->
+                <div class="col-lg-4">
+                    <div class="explore-other-department">
+                        Explore Other Departments
                     </div>
-                    <div class="department-body">
-                        <div class="department-name">
-                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 m-15-cus">
-                    <div class="department-head">
-                        <div class="img-box bg-1">
-                            <div class="img-box-hover"></div>
-                        </div>
-                    </div>
-                    <div class="department-body">
-                        <div class="department-name">
-                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="other-departments-img-box img-1"></div>
+                            <div class="content-box">
+                                <div class="other-department-head">
+                                    Department of Biology
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
