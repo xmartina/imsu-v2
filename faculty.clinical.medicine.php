@@ -66,7 +66,7 @@ require_once ('header.php');
             height: 4em;
             border-radius: 50%;
             background-size: cover;
-
+            padding-left: 3em;
         }
         .other-departments-img-box.img-1{
             background-image: url('https://imsu.edu.ng/assets/img/imsu/post_grad-3.jpg');
