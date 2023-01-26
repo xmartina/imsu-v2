@@ -35,6 +35,11 @@ require_once ('header.php');
         .fa-styling.fa{
             display:none;
         }
+        .department-name:hover{
+            padding-left: .4em;
+            color: #ccc;
+            transition: all 1s ease-in-out;
+        }
         .department-name:hover .fa-styling.fa{
             display:inline-block;
             padding-left: .2em;
