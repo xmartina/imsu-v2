@@ -86,8 +86,8 @@ require_once ('header.php');
             padding-left: 4em;
         }
         .hover-move-left:hover{
-            padding-left: .7em;
-            transition: all 450ms ease-out;
+            padding-left: 2.3em;
+            transition: all 200ms ease-out;
         }
     </style>
     <div class="department-block">
@@ -153,9 +153,9 @@ require_once ('header.php');
                     <div class="explore-other-department">
                         Explore Other Departments
                     </div>
-                    <div class="row d-flex align-items-center">
+                    <div class="row">
                         <div class="col-lg-12 hover-move-left">
-                            <div class="row">
+                            <div class="row d-flex align-items-center">
                                 <div class="col-lg-4 pl-4-cus">
                                     <div class="other-departments-img-box img-1"></div>
                                 </div>
