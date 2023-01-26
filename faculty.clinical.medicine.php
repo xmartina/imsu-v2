@@ -85,7 +85,7 @@ require_once ('header.php');
                     </div>
                     <div class="department-body">
                         <div class="department-name">
-                            Soil Science Department <i class="fas fa-arrow-right"
+                            Soil Science Department <i class="fas fa-arrow-right"></i>
                         </div>
                     </div>
                 </div>
