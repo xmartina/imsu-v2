@@ -64,7 +64,7 @@ require_once ('header.php');
         .other-departments-img-box{
             width: 100%;
             height: 7em;
-            border-radius: .2em;
+            border-radius: 50%;
             background-size: cover;
 
         }
@@ -145,10 +145,12 @@ require_once ('header.php');
                         <div class="col-lg-4">
                             <div class="other-departments-img-box img-1"></div>
                             <div class="content-box">
-                                <div class="other-department-head">
-                                    Department of Biology
-                                </div>
+                        </div>
+                        <div class="col-lg-8">
+                            <div class="other-department-head">
+                                Department of Biology
                             </div>
+                        </div>
                         </div>
                     </div>
                 </div>
