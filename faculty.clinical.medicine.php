@@ -75,6 +75,7 @@ require_once ('header.php');
         }
         .other-department-head{
             font-size: 1.2em;
+            color: #0b0b0b;
         }
         .explore-other-department{
             font-size: 1.5em;
