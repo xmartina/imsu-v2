@@ -62,8 +62,8 @@ require_once ('header.php');
             transition: all 4s ease-in-out;
         }
         .other-departments-img-box{
-            width: 100%;
-            height: 4em;
+            width: 7em;
+            height: 7em;
             border-radius: 50%;
             background-size: cover;
 
