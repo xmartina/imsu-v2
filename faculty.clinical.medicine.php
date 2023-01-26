@@ -75,6 +75,7 @@ require_once ('header.php');
         }
         .explore-other-department{
             font-size: 1.5em;
+            text-align: center;
         }
         .border-blue-1em{
             border-left:.4em solid #0a2444;
