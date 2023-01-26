@@ -93,6 +93,7 @@ require_once ('header.php');
             background-color: #0a2444;
             color: #fff;
             transition: all 250ms ease-in;
+            padding: .3em .8em;
         }
     </style>
     <div class="department-block">
