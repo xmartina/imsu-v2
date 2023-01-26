@@ -33,9 +33,9 @@ require_once ('header.php');
             margin: 1.2em 0;
         }
         .fa-styling.fa{
-            display: none;
+            display:none;
         }
-        .fa-styling.fa:hover{
+        .department-name .fa-styling.fa:hover{
             display:block;
             padding-left: 1.2em;
             transition: all 45ms ease-in-out;
