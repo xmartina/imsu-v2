@@ -174,6 +174,62 @@ require_once ('header.php');
                                 </div>
                             </div>
                         </div>
+                        <div class="col-lg-12 hover-move-left">
+                            <div class="row d-flex align-items-center">
+                                <div class="col-lg-4 pl-4-cus">
+                                    <div class="other-departments-img-box img-1"></div>
+                                </div>
+                                <div class="col-lg-8 border-blue-1em">
+                                    <div class="content-box">
+                                        <div class="other-department-head">
+                                            Department of Biology
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 hover-move-left">
+                            <div class="row d-flex align-items-center">
+                                <div class="col-lg-4 pl-4-cus">
+                                    <div class="other-departments-img-box img-1"></div>
+                                </div>
+                                <div class="col-lg-8 border-blue-1em">
+                                    <div class="content-box">
+                                        <div class="other-department-head">
+                                            Department of Biology
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 hover-move-left">
+                            <div class="row d-flex align-items-center">
+                                <div class="col-lg-4 pl-4-cus">
+                                    <div class="other-departments-img-box img-1"></div>
+                                </div>
+                                <div class="col-lg-8 border-blue-1em">
+                                    <div class="content-box">
+                                        <div class="other-department-head">
+                                            Department of Biology
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 hover-move-left">
+                            <div class="row d-flex align-items-center">
+                                <div class="col-lg-4 pl-4-cus">
+                                    <div class="other-departments-img-box img-1"></div>
+                                </div>
+                                <div class="col-lg-8 border-blue-1em">
+                                    <div class="content-box">
+                                        <div class="other-department-head">
+                                            Department of Biology
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
