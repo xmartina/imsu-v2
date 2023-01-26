@@ -14,9 +14,21 @@ require_once ('header.php');
         .img-box{
             width: 100%;
             height: 8em;
+            position: relative;
             background-size: cover;
             border-top-right-radius: .3em;
             border-top-left-radius: .3em;
+        }
+        .img-box-hover:hover{
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            background: rgb(4,9,33);
+            background: linear-gradient(264deg, rgba(4,9,33,1) 31%, rgba(134,35,139,1) 86%);
+            opacity: .5;
+            transition: all 500ms ease-in;
         }
         .department-body{
             border-left: .4em solid #0a2444;
@@ -96,6 +108,7 @@ require_once ('header.php');
                 <div class="col-lg-4 m-15-cus">
                     <div class="department-head">
                         <div class="img-box bg-1"></div>
+                        <div class="img-box-hover"></div>
                     </div>
                     <div class="department-body">
                         <div class="department-name">
