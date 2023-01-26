@@ -145,7 +145,7 @@ require_once ('header.php');
                     <div class="explore-other-department">
                         Explore Other Departments
                     </div>
-                    <div class="row align-items-center">
+                    <div class="row d-flex align-items-center">
                         <div class="col-lg-4">
                             <div class="other-departments-img-box img-1"></div>
                         </div>
