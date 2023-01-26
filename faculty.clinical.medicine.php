@@ -70,41 +70,73 @@ require_once ('header.php');
             <div class="row gy-5 gx-3">
                 <div class="col-lg-4 m-15-cus">
                     <div class="department-head">
-                        <div class="img-box bg-1"></div>
+                        <div class="img-box bg-1">
+                            <div class="img-box-hover"></div>
+                        </div>
                     </div>
                     <div class="department-body">
                         <div class="department-name">
-                            Soil Science Department
+                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 m-15-cus">
                     <div class="department-head">
-                        <div class="img-box bg-1"></div>
+                        <div class="img-box bg-1">
+                            <div class="img-box-hover"></div>
+                        </div>
                     </div>
                     <div class="department-body">
                         <div class="department-name">
-                            Soil Science Department
+                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 m-15-cus">
                     <div class="department-head">
-                        <div class="img-box bg-1"></div>
+                        <div class="img-box bg-1">
+                            <div class="img-box-hover"></div>
+                        </div>
                     </div>
                     <div class="department-body">
                         <div class="department-name">
-                            Soil Science Department
+                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 m-15-cus">
                     <div class="department-head">
-                        <div class="img-box bg-1"></div>
+                        <div class="img-box bg-1">
+                            <div class="img-box-hover"></div>
+                        </div>
                     </div>
                     <div class="department-body">
                         <div class="department-name">
-                            Soil Science Department
+                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 m-15-cus">
+                    <div class="department-head">
+                        <div class="img-box bg-1">
+                            <div class="img-box-hover"></div>
+                        </div>
+                    </div>
+                    <div class="department-body">
+                        <div class="department-name">
+                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 m-15-cus">
+                    <div class="department-head">
+                        <div class="img-box bg-1">
+                            <div class="img-box-hover"></div>
+                        </div>
+                    </div>
+                    <div class="department-body">
+                        <div class="department-name">
+                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
                         </div>
                     </div>
                 </div>
