@@ -21,6 +21,8 @@ require_once ('header.php');
         }
         .img-box-hover:hover{
             position: absolute;
+            width: 100%;
+            height: 100%;
             top: 0;
             bottom: 0;
             right: 0;
