@@ -36,9 +36,10 @@ require_once ('header.php');
             display:none;
         }
         .department-name:hover{
-            padding-left: .4em;
+            cursor: pointer;
+            padding-left: .9em;
             color: #ccc;
-            transition: all 1s ease-in-out;
+            transition: all 500ms ease-in-out;
         }
         .department-name:hover .fa-styling.fa{
             display:inline-block;
