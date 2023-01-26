@@ -144,13 +144,13 @@ require_once ('header.php');
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="other-departments-img-box img-1"></div>
-                            <div class="content-box">
                         </div>
                         <div class="col-lg-8">
-                            <div class="other-department-head">
-                                Department of Biology
+                            <div class="content-box">
+                                <div class="other-department-head">
+                                    Department of Biology
+                                </div>
                             </div>
-                        </div>
                         </div>
                     </div>
                 </div>
