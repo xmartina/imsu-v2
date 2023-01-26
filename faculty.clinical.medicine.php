@@ -19,7 +19,7 @@ require_once ('header.php');
             border-top-right-radius: .3em;
             border-top-left-radius: .3em;
         }
-        .img-box-hover:hover{
+        .img-box:hover .img-box-hover{
             position: absolute;
             width: 100%;
             height: 100%;
