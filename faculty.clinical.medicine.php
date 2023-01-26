@@ -66,7 +66,6 @@ require_once ('header.php');
             height: 4em;
             border-radius: 50%;
             background-size: cover;
-            padding-left: 3em;
         }
         .other-departments-img-box.img-1{
             background-image: url('https://imsu.edu.ng/assets/img/imsu/post_grad-3.jpg');
@@ -80,6 +79,9 @@ require_once ('header.php');
         .border-blue-1em{
             border-left:.4em solid #0a2444;
             padding-left: .3em;
+        }
+        .pl-4-cus{
+            padding-left: 4em;
         }
     </style>
     <div class="department-block">
@@ -146,7 +148,7 @@ require_once ('header.php');
                         Explore Other Departments
                     </div>
                     <div class="row d-flex align-items-center">
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 pl-4-cus">
                             <div class="other-departments-img-box img-1"></div>
                         </div>
                         <div class="col-lg-8 border-blue-1em">
