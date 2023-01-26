@@ -37,7 +37,8 @@ require_once ('header.php');
         }
         .department-name:hover .fa-styling.fa{
             display:inline-block;
-            transition: all 2s ease-in-out;
+            padding-left: .2em;
+            transition: all 4s ease-in-out;
         }
     </style>
     <div class="department-block">
