@@ -36,7 +36,7 @@ require_once ('header.php');
     <div class="department-block">
         <div class="container">
             <h2 class="Facuties-h2 text-center pb-3em">
-                <?php echo $pageName ? $pageName: 'All Faculties'; ?>
+                <?php echo $pageName ? $pageName: 'Faculty Of Agriculture & Veterinary Medicine'; ?>
             </h2>
             <div class="row gy-5 gx-3">
                 <div class="col-lg-4 m-15-cus">
