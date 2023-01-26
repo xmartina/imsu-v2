@@ -13,7 +13,7 @@ require_once ('header.php');
         }
         .img-box{
             width: 100%;
-            height: 16em;
+            height: 8em;
             background-size: cover;
             border-top-right-radius: .3em;
             border-top-left-radius: .3em;
