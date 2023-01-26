@@ -85,6 +85,10 @@ require_once ('header.php');
         .pl-4-cus{
             padding-left: 4em;
         }
+        .hover-move-left:hover{
+            padding-left: .7em;
+            transition: all 450ms ease-out;
+        }
     </style>
     <div class="department-block">
         <div class="container">
@@ -150,13 +154,17 @@ require_once ('header.php');
                         Explore Other Departments
                     </div>
                     <div class="row d-flex align-items-center">
-                        <div class="col-lg-4 pl-4-cus">
-                            <div class="other-departments-img-box img-1"></div>
-                        </div>
-                        <div class="col-lg-8 border-blue-1em">
-                            <div class="content-box">
-                                <div class="other-department-head">
-                                    Department of Biology
+                        <div class="col-lg-12 hover-move-left">
+                            <div class="row">
+                                <div class="col-lg-4 pl-4-cus">
+                                    <div class="other-departments-img-box img-1"></div>
+                                </div>
+                                <div class="col-lg-8 border-blue-1em">
+                                    <div class="content-box">
+                                        <div class="other-department-head">
+                                            Department of Biology
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
