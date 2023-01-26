@@ -109,8 +109,9 @@ require_once ('header.php');
                 </div>
                 <div class="col-lg-4 m-15-cus">
                     <div class="department-head">
-                        <div class="img-box bg-1"></div>
-                        <div class="img-box-hover"></div>
+                        <div class="img-box bg-1">
+                            <div class="img-box-hover"></div>
+                        </div>
                     </div>
                     <div class="department-body">
                         <div class="department-name">
