@@ -63,7 +63,7 @@ require_once ('header.php');
         }
         .other-departments-img-box{
             width: 100%;
-            height: 7em;
+            height: 4em;
             border-radius: 50%;
             background-size: cover;
 
