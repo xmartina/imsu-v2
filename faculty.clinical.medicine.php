@@ -100,6 +100,7 @@ require_once ('header.php');
             color: #fff;
             transition: all 250ms ease-in;
             padding: .3em .8em;
+            box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
         }
     </style>
     <div class="department-block">
