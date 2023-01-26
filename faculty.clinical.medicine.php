@@ -74,7 +74,7 @@ require_once ('header.php');
             font-size: 1.2em;
         }
         .explore-other-department{
-            font-size: .7em;
+            font-size: 2em;
         }
         .border-blue-1em{
             border-left:.4em solid #0a2444;
