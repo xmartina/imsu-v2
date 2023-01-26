@@ -89,6 +89,11 @@ require_once ('header.php');
             padding-left: 2.3em;
             transition: all 200ms ease-out;
         }
+        .hover-move-left:hover .border-blue-1em{
+            background-color: #0a2444;
+            color: #fff;
+            transition: all 250ms ease-in;
+        }
     </style>
     <div class="department-block">
         <div class="container">
