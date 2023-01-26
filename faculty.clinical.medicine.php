@@ -32,6 +32,14 @@ require_once ('header.php');
         .m-15-cus{
             margin: 1.2em 0;
         }
+        .fa-styling.fa{
+            display: none;
+        }
+        .fa-styling.fa:hover{
+            display:block;
+            padding-left: 1.2em;
+            transition: all 45ms ease-in-out;
+        }
     </style>
     <div class="department-block">
         <div class="container">
@@ -85,7 +93,7 @@ require_once ('header.php');
                     </div>
                     <div class="department-body">
                         <div class="department-name">
-                            Soil Science Department <i class="fab fa fa-arrow-right"></i>
+                            Soil Science Department <i class="fab fa-styling fa fa-arrow-right"></i>
                         </div>
                     </div>
                 </div>
