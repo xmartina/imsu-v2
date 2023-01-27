@@ -100,6 +100,9 @@
         .welcome-block{
             height: 37em;
         }
+        .flex-column{
+            flex-direction: column;
+        }
     </style>
     <div class="container">
         <div class="row d-flex align-items-center">
