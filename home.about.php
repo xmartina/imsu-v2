@@ -99,7 +99,7 @@
             color: #f0f0f0;
             font-size: 1.1em;
             width: 25%;
-            height: 7em;
+            height: 2em;
         }
         .welcome-block{
             padding: .2em 1.6em;
