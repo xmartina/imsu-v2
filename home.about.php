@@ -90,16 +90,17 @@
         .welcome-content{
             color: #34414d;
             margin-top: 1.8em;
-            padding-right: 2.7em;
+            padding-right: 3.7em;
         }
         .welcome-btn{
             margin-top: 2em;
-            padding: .2em;
             background-color: #0a2444;
             color: #f0f0f0;
             font-size: 1.1em;
             width: 25%;
             height: 3em;
+            padding-left: .1em;
+            padding-top: .1em;
         }
         .welcome-block{
             padding: .2em 1.6em;
