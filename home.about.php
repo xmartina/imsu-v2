@@ -104,8 +104,8 @@
             font-size: 1.1em;
             width: 25%;
             height: 3em;
-            padding-left: .3em;
-            padding-top: .2em;
+            padding-left: .8em;
+            padding-top: .3em;
         }
         .welcome-block{
             padding: .2em 1.6em;
