@@ -36,6 +36,7 @@
         </ul>
     </div>
     <!-- New VC Block -->
+    <?php $boxShadow = "rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;"; ?>
     <style>
         .vc-img{
             width: 100%;
@@ -114,7 +115,7 @@
             color: #0a2444;
             transition: all 200ms ease-in;
             padding-left: .4em;
-            box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+            box-shadow: <?php echo $boxShadow; ?>
         }
         .welcome-block{
             padding: 2em 1.6em;
