@@ -121,13 +121,27 @@
             padding: 2em 1.6em;
             padding-left: 4em;
         }
-        .vc-img-frame{
-            --s: 10px; /* control the size */
-            padding: var(--s);
-            border: calc(2*var(--s)) solid #0000;
-            outline: 1px solid #000;
-            outline-offset: calc(-1*var(--s));
-            background: conic-gradient(from 90deg at 1px 1px,#0000 25%,#000 0);
+        .vc-img-frame {
+            --g: 4px;     /* the gap */
+            --b: 12px;    /* border thickness*/
+            --c: #669706; /* the color */
+
+
+            padding: calc(var(--g) + var(--b));
+            --_c: #0000 0 25%, var(--c) 0 50%;
+            --_g1: repeating-linear-gradient(90deg ,var(--_c)) repeat-x;
+            --_g2: repeating-linear-gradient(180deg,var(--_c)) repeat-y;
+            background:
+                    var(--_g1) var(--_p, 25%) 0   ,var(--_g2) 0    var(--_p,125%),
+                    var(--_g1) var(--_p,125%) 100%,var(--_g2) 100% var(--_p, 25%);
+            background-size: 200% var(--b),var(--b) 200%;
+            cursor: pointer;
+            filter: grayscale(50%);
+            transition: .3s;
+        }
+        .vc-img-frame:hover {
+            --_p: 75%;
+            filter: grayscale(0%);
         }
         .vc-img-overlay-1{
             background: rgb(4,9,33);
