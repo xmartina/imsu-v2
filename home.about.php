@@ -44,7 +44,7 @@
             height: 30%;
             bottom: 0;
             background-color: #0e0e0e;
-            padding: 2.5em;
+            padding: 1.5em;
         }
         .p_relative{
             position: relative;
@@ -88,7 +88,7 @@
                                 <div class="vc-content-2">
                                     Vice-Chancellor
                                 </div>
-                                <div class="vc-content-2">
+                                <div class="vc-content-3">
                                     Imo State University
                                 </div>
                             </div>
