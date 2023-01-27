@@ -30,6 +30,32 @@
             </li>
         </ul>
     </div>
+    <!-- New VC Block -->
+    <style>
+        .vc-img{
+            width: 100%;
+            height: 100%;
+            background-image: url('images/cus-img/vc-1.jpg');
+            background-size: cover;
+            
+        }
+    </style>
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="vc-block">
+                <div class="vc-img"></div>
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="welcome-block">
+                <div class="welcome-head"></div>
+                <div class="welcome-content"></div>
+                <div class="welcome-btn"></div>
+            </div>
+        </div>
+    </div>
+
+
     <div class="container">
         <div class="row">
             <div class="col-sm-7 col-sm-push-5 left-block"> <span class="sm-head">Welcome to</span>
