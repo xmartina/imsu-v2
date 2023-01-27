@@ -103,6 +103,9 @@
         .flex-column{
             flex-direction: column;
         }
+        .flex-start{
+            justify-content: start;
+        }
     </style>
     <div class="container">
         <div class="row d-flex align-items-center">
@@ -129,7 +132,7 @@
                 </div>
             </div>
             <div class="col-lg-8">
-                <div class="welcome-block d-flex align-items-center flex-column">
+                <div class="welcome-block d-flex align-items-center flex-column flex-start">
                     <div class="welcome-head">
                         <div class="welcome-head-1">
                             Welcome to
