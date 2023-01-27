@@ -132,7 +132,7 @@
         .vc-img-overlay-1{
             background: rgb(4,9,33);
             background: linear-gradient(264deg, rgba(4,9,33,1) 31%, rgba(134,35,139,1) 86%);
-            opacity: .6;
+            opacity: .3;
             width: 100%;
             height: 100%;
             top:0;
