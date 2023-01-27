@@ -104,7 +104,7 @@
             background-color: #0a2444;
             color: #f0f0f0;
             font-size: 1.1em;
-            width: 13em;
+            width: 9em;
             height: 3em;
             padding-left: .8em;
             padding-top: .3em;
