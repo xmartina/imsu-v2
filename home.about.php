@@ -61,8 +61,7 @@
             <div class="col-sm-7 col-sm-push-5 left-block"> <span class="sm-head">Welcome to</span>
                 <h2>Imo State University</h2>
                 <p style="color: black; text-align: justify;">
-                    Imo State University was established in 1981 and has since grown to become one of the leading universities in the country. 
-The university offers a wide range of undergraduate and postgraduate programs in fields. It also has a strong research focus and is known for its commitment to academic excellence and innovation. 
+                    a wide range of undergraduate and postgraduate programs in fields. It also has a strong research focus and is known for its commitment to academic excellence and innovation.
                 </p>
 
                 <a href="" class="btn animated fadeInLeft">Read More</a>
