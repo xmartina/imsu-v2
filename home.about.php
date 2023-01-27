@@ -75,6 +75,26 @@
             color: #ffffff;
             text-transform: uppercase;
         }
+        .welcome-head-1{
+            font-size: .8em;
+            color: #303a54;
+        }
+        .welcome-head-2{
+            font-size: 1.4em;
+            text-transform: uppercase;
+            font-weight: 700;
+            padding-left: 2em;
+            border-left:.2em solid #0a2444;
+        }
+        .welcome-content{
+            color: #34414d;
+        }
+        .welcome-btn{
+            padding: 2.5em;
+            background-color: #0a2444;
+            color: #f0f0f0;
+            font-size: 1.4em;
+        }
     </style>
     <div class="container">
         <div class="row">
@@ -102,9 +122,21 @@
             </div>
             <div class="col-lg-8">
                 <div class="welcome-block">
-                    <div class="welcome-head"></div>
-                    <div class="welcome-content"></div>
-                    <div class="welcome-btn"></div>
+                    <div class="welcome-head">
+                        <div class="welcome-head-1">
+                            Welcome to
+                        </div>
+                        <div class="welcome-head-2">
+                            Imo State University
+                        </div>
+                    </div>
+                    <div class="welcome-content">
+                        Imo State University was established in 1981 and has since grown to become one of the leading universities in the country.
+                        The university offers a wide range of undergraduate and postgraduate programs in fields. It also has a strong research focus and is known for its commitment to academic excellence and innovation.
+                    </div>
+                    <div class="welcome-btn">
+                        Read More <i class="icon fas fa-arrow-right"></i>
+                    </div>
                 </div>
             </div>
         </div>
