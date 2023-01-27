@@ -77,7 +77,7 @@
         }
         .welcome-head-1{
             font-size: 1.4em;
-            margin-bottom: .2em;
+            margin-bottom: .3em;
         }
         .welcome-head-2{
             font-size: 2.7em;
@@ -90,14 +90,15 @@
         .welcome-content{
             color: #34414d;
             margin-top: 1.8em;
+            padding-right: 2.7em;
         }
         .welcome-btn{
             margin-top: 2em;
             padding: .2em;
             background-color: #0a2444;
             color: #f0f0f0;
-            font-size: 1.4em;
-            width: 23%;
+            font-size: 1.1em;
+            width: 28%;
         }
         .welcome-block{
             padding: .2em 1.6em;
