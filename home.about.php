@@ -109,6 +109,7 @@
         }
         .welcome-block{
             padding: 2em 1.6em;
+            padding-left: 4em;
         }
         .flex-column{
             flex-direction: column;
