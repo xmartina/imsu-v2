@@ -107,6 +107,13 @@
             padding-left: .8em;
             padding-top: .3em;
         }
+        .welcome-btn:hover{
+            border-radius: .2em;
+            background-color: #fff;
+            color: #0a2444;
+            transition: all 200ms ease-in;
+            padding-left: 2em;
+        }
         .welcome-block{
             padding: 2em 1.6em;
             padding-left: 4em;
