@@ -98,7 +98,8 @@
             background-color: #0a2444;
             color: #f0f0f0;
             font-size: 1.1em;
-            width: 28%;
+            width: 25%;
+            height: 7em;
         }
         .welcome-block{
             padding: .2em 1.6em;
