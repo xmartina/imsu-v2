@@ -129,6 +129,17 @@
             outline-offset: calc(-1*var(--s));
             background: conic-gradient(from 90deg at 1px 1px,#0000 25%,#000 0);
         }
+        .vc-img-overlay-1{
+            background: rgb(4,9,33);
+            background: linear-gradient(264deg, rgba(4,9,33,1) 31%, rgba(134,35,139,1) 86%);
+            opacity: .3;
+            width: 100%;
+            height: 100%;
+            top:0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+        }
     </style>
     <div class="container">
         <div class="row d-flex align-items-center">
@@ -137,6 +148,7 @@
                     <div class="vc-img-frame">
                         <div class="vc-img p_relative">
                             <div class="vc-img-overlay p_absolute">
+                                <div class="vc-img-overlay-1"></div>
                                 <div class="vc-img-overlay-head">
                                     Prof Uchefula Ugonna Chukwumaeze
                                 </div>
