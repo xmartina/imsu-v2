@@ -76,28 +76,33 @@
             text-transform: uppercase;
         }
         .welcome-head-1{
-            font-size: .8em;
-            color: #303a54;
+            font-size: 1.4em;
         }
         .welcome-head-2{
-            font-size: 1.4em;
+            font-size: 2.7em;
+            color: #303a54;
             text-transform: uppercase;
-            font-weight: 700;
+            font-weight: 800;
             padding-left: 2em;
             border-left:.2em solid #0a2444;
         }
         .welcome-content{
             color: #34414d;
+            margin-top: 1.5em;
         }
         .welcome-btn{
-            padding: 2.5em;
+            padding: .6em;
             background-color: #0a2444;
             color: #f0f0f0;
             font-size: 1.4em;
+            width: 30%;
+        }
+        .welcome-block{
+            height: 37em;
         }
     </style>
     <div class="container">
-        <div class="row">
+        <div class="row d-flex align-items-center">
             <div class="col-lg-4">
                 <div class="vc-block">
                     <div class="vc-img p_relative">
@@ -135,7 +140,7 @@
                         The university offers a wide range of undergraduate and postgraduate programs in fields. It also has a strong research focus and is known for its commitment to academic excellence and innovation.
                     </div>
                     <div class="welcome-btn">
-                        Read More <i class="icon fas fa-arrow-right"></i>
+                        Read More <i class="icon fas fa fa-arrow-right"></i>
                     </div>
                 </div>
             </div>
