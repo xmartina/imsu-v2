@@ -53,22 +53,24 @@
             position: absolute;
         }
         .vc-img-overlay-head{
+            text-align: center;
             color: #f0f0f0;
             font-size: 1.2em;
-        }
-        .vc-img-overlay-content{
-            margin-top: .6em;
         }
         .vc-content-1{
             font-size: 1em;
             color: #aeaeb0;
         }
         .vc-content-2{
+            text-align: center;
+            margin-top: .6em;
             font-size: 1.4em;
             color: #8c8c94;
         }
         .vc-content-3{
+            text-align: center;
             font-size: 1.8em;
+            font-weight: 600;
             color: #ffffff;
         }
     </style>
