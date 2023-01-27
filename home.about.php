@@ -55,7 +55,7 @@
         .vc-img-overlay-head{
             text-align: center;
             color: #f0f0f0;
-            font-size: 1.8em;
+            font-size: 1.4em;
         }
         .vc-content-1{
             text-align: center;
@@ -70,7 +70,7 @@
         }
         .vc-content-3{
             text-align: center;
-            font-size: 1.8em;
+            font-size: 1.4em;
             font-weight: 700;
             color: #ffffff;
             text-transform: uppercase;
