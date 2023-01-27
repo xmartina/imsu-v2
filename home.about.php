@@ -98,7 +98,6 @@
             width: 30%;
         }
         .welcome-block{
-            height: 37em;
         }
         .flex-column{
             flex-direction: column;
@@ -132,7 +131,7 @@
                 </div>
             </div>
             <div class="col-lg-8">
-                <div class="welcome-block d-flex align-items-center flex-column flex-start">
+                <div class="welcome-block ">
                     <div class="welcome-head">
                         <div class="welcome-head-1">
                             Welcome to
