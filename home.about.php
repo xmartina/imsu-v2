@@ -121,31 +121,35 @@
             padding: 2em 1.6em;
             padding-left: 4em;
         }
-        .flex-column{
-            flex-direction: column;
-        }
-        .flex-start{
-            justify-content: start;
+        .vc-img-frame{
+            --s: 10px; /* control the size */
+            padding: var(--s);
+            border: calc(2*var(--s)) solid #0000;
+            outline: 1px solid #000;
+            outline-offset: calc(-1*var(--s));
+            background: conic-gradient(from 90deg at 1px 1px,#0000 25%,#000 0);
         }
     </style>
     <div class="container">
         <div class="row d-flex align-items-center">
             <div class="col-lg-4">
                 <div class="vc-block">
-                    <div class="vc-img p_relative">
-                        <div class="vc-img-overlay p_absolute">
-                            <div class="vc-img-overlay-head">
-                                Prof Uchefula Ugonna Chukwumaeze
-                            </div>
-                            <div class="vc-img-overlay-content">
-                                <div class="vc-content-1">
-                                    Ph.D San
+                    <div class="vc-img-frame">
+                        <div class="vc-img p_relative">
+                            <div class="vc-img-overlay p_absolute">
+                                <div class="vc-img-overlay-head">
+                                    Prof Uchefula Ugonna Chukwumaeze
                                 </div>
-                                <div class="vc-content-2">
-                                    Vice-Chancellor
-                                </div>
-                                <div class="vc-content-3">
-                                    Imo State University
+                                <div class="vc-img-overlay-content">
+                                    <div class="vc-content-1">
+                                        Ph.D San
+                                    </div>
+                                    <div class="vc-content-2">
+                                        Vice-Chancellor
+                                    </div>
+                                    <div class="vc-content-3">
+                                        Imo State University
+                                    </div>
                                 </div>
                             </div>
                         </div>
