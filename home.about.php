@@ -55,9 +55,10 @@
         .vc-img-overlay-head{
             text-align: center;
             color: #f0f0f0;
-            font-size: 1.2em;
+            font-size: 1.8em;
         }
         .vc-content-1{
+            text-align: center;
             font-size: 1em;
             color: #aeaeb0;
         }
@@ -70,8 +71,9 @@
         .vc-content-3{
             text-align: center;
             font-size: 1.8em;
-            font-weight: 600;
+            font-weight: 700;
             color: #ffffff;
+            text-transform: uppercase;
         }
     </style>
     <div class="container">
