@@ -35,9 +35,9 @@
         .vc-img{
             width: 100%;
             height: 100%;
-            background-image: url('images/cus-img/vc-1.jpg');
+            background-image: url('../imsu-v2/images/cus-img/vc-1.jpg');
             background-size: cover;
-            
+
         }
     </style>
     <div class="row">
