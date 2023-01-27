@@ -34,7 +34,7 @@
     <style>
         .vc-img{
             width: 100%;
-            height: 45em;
+            height: 35em;
             background-image: url('../imsu-v2/images/cus-img/vc-1.jpg');
             background-size: cover;
             background-position: center top;
