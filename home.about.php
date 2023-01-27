@@ -113,6 +113,7 @@
             color: #0a2444;
             transition: all 200ms ease-in;
             padding-left: .4em;
+            box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
         }
         .welcome-block{
             padding: 2em 1.6em;
