@@ -98,6 +98,7 @@
             padding-right: 5em;
         }
         .welcome-btn{
+            cursor: pointer;
             margin-top: 2em;
             background-color: #0a2444;
             color: #f0f0f0;
