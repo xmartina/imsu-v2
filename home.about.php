@@ -44,7 +44,7 @@
             height: 30%;
             bottom: 0;
             background-color: #0e0e0e;
-            padding: 1.5em;
+            padding: 1em;
         }
         .p_relative{
             position: relative;
