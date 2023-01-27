@@ -37,23 +37,27 @@
             height: 45em;
             background-image: url('../imsu-v2/images/cus-img/vc-1.jpg');
             background-size: cover;
+            background-position: center top;
 
         }
     </style>
-    <div class="row">
-        <div class="col-lg-4">
-            <div class="vc-block">
-                <div class="vc-img"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="vc-block">
+                    <div class="vc-img"></div>
+                </div>
             </div>
-        </div>
-        <div class="col-lg-8">
-            <div class="welcome-block">
-                <div class="welcome-head"></div>
-                <div class="welcome-content"></div>
-                <div class="welcome-btn"></div>
+            <div class="col-lg-8">
+                <div class="welcome-block">
+                    <div class="welcome-head"></div>
+                    <div class="welcome-content"></div>
+                    <div class="welcome-btn"></div>
+                </div>
             </div>
         </div>
     </div>
+
 
 
     <div class="container">
