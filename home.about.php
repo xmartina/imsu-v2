@@ -95,7 +95,7 @@
         .welcome-content{
             color: #34414d;
             margin-top: 1.8em;
-            padding-right: 10em;
+            padding-right: 5em;
         }
         .welcome-btn{
             margin-top: 2em;
@@ -108,7 +108,7 @@
             padding-top: .3em;
         }
         .welcome-block{
-            padding: .2em 1.6em;
+            padding: 2em 1.6em;
         }
         .flex-column{
             flex-direction: column;
