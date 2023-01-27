@@ -164,10 +164,13 @@
                 display: none;
             }
             .line-height-mobile{
-                line-height: 2em;
+                line-height: 1.4em;
             }
             .welcome-block{
                 padding-left: .3em;
+            }
+            .welcome-content{
+                padding-right: .6em;
             }
         }
     </style>
