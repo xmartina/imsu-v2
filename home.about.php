@@ -132,13 +132,17 @@
         .vc-img-overlay-1{
             background: rgb(4,9,33);
             background: linear-gradient(264deg, rgba(4,9,33,1) 31%, rgba(134,35,139,1) 86%);
-            opacity: .3;
+            opacity: .5;
             width: 100%;
             height: 100%;
             top:0;
             bottom: 0;
             right: 0;
             left: 0;
+            cursor: pointer;
+        }
+        .vc-img-overlay-1{
+            opacity: .2;
         }
     </style>
     <div class="container">
