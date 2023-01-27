@@ -1,6 +1,11 @@
 <!-- ==============================================
     ** About **
     =================================================== -->
+<style>
+    .about{
+        background: #fff;
+    }
+</style>
 <section class="about">
     <div class="container">
         <ul class="row our-links">
