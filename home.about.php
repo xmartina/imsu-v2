@@ -157,27 +157,4 @@
             </div>
         </div>
     </div>
-
-
-
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-7 col-sm-push-5 left-block"> <span class="sm-head">Welcome to</span>
-                <h2>Imo State University</h2>
-                <p style="color: black; text-align: justify;">
-                    Imo State University was established in 1981 and has since grown to become one of the leading universities in the country.
-The university offers a wide range of undergraduate and postgraduate programs in fields. It also has a strong research focus and is known for its commitment to academic excellence and innovation.
-                </p>
-
-                <a href="" class="btn animated fadeInLeft">Read More</a>
-            </div>
-            <div class="col-sm-5 col-sm-pull-6">
-                <div class="video-block">
-                    <img src="images/vc.jpg" style="width: 350px;">
-                    <!-- <div id="thumbnail_container"> <img src="images/about-video.jpg" id="thumbnail" class="img-responsive" alt=""> </div>
-                    <a href="https://www.youtube.com/watch?v=i11RXCJVEnw" class="start-video video"><img src="images/play-btn.png" alt=""></a> -->
-                </div>
-            </div>
-        </div>
-    </div>
 </section>
