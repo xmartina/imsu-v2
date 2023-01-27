@@ -77,27 +77,30 @@
         }
         .welcome-head-1{
             font-size: 1.4em;
+            margin-bottom: .2em;
         }
         .welcome-head-2{
             font-size: 2.7em;
             color: #303a54;
             text-transform: uppercase;
             font-weight: 800;
-            padding-left: 2em;
-            border-left:.2em solid #0a2444;
+            padding-left: 1em;
+            border-left:.1em solid #255406;
         }
         .welcome-content{
             color: #34414d;
-            margin-top: 1.5em;
+            margin-top: 1.8em;
         }
         .welcome-btn{
-            padding: .6em;
+            margin-top: 2em;
+            padding: .2em;
             background-color: #0a2444;
             color: #f0f0f0;
             font-size: 1.4em;
-            width: 30%;
+            width: 23%;
         }
         .welcome-block{
+            padding: .2em 1.6em;
         }
         .flex-column{
             flex-direction: column;
