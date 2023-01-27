@@ -132,7 +132,7 @@
     </style>
     <div class="container">
         <div class="row d-flex align-items-center">
-            <div class="col-lg-4">
+            <div class="col-lg-5">
                 <div class="vc-block">
                     <div class="vc-img-frame">
                         <div class="vc-img p_relative">
@@ -156,7 +156,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-8">
+            <div class="col-lg-7">
                 <div class="welcome-block ">
                     <div class="welcome-head">
                         <div class="welcome-head-1">
