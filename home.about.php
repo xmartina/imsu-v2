@@ -159,10 +159,15 @@
             opacity: .2;
             transition: all 300ms ease-in;
         }
+        @media (max-width:765px){
+            .hide-on-mobile{
+                display: none;
+            }
+        }
     </style>
     <div class="container">
         <div class="row d-flex align-items-center">
-            <div class="col-lg-5">
+            <div class="col-lg-5 hide-on-mobile">
                 <div class="vc-block">
                     <div class="vc-img-frame">
                         <div class="vc-img p_relative">
