@@ -143,6 +143,7 @@
         }
         .vc-img-overlay-1:hover{
             opacity: .2;
+            transition: all 300ms ease-in;
         }
     </style>
     <div class="container">
