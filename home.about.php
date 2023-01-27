@@ -163,6 +163,12 @@
             .hide-on-mobile{
                 display: none;
             }
+            .line-height-mobile{
+                line-height: 2em;
+            }
+            .welcome-block{
+                padding-left: .3em;
+            }
         }
     </style>
     <div class="container">
@@ -198,7 +204,7 @@
                         <div class="welcome-head-1">
                             Welcome to
                         </div>
-                        <div class="welcome-head-2">
+                        <div class="welcome-head-2 line-height-mobile">
                             Imo State University
                         </div>
                     </div>
