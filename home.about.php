@@ -126,7 +126,7 @@
                 </div>
             </div>
             <div class="col-lg-8">
-                <div class="welcome-block">
+                <div class="welcome-block d-flex align-items-center">
                     <div class="welcome-head">
                         <div class="welcome-head-1">
                             Welcome to
