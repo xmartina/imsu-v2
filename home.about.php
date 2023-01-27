@@ -132,7 +132,7 @@
         .vc-img-overlay-1{
             background: rgb(4,9,33);
             background: linear-gradient(264deg, rgba(4,9,33,1) 31%, rgba(134,35,139,1) 86%);
-            opacity: .3;
+            opacity: .6;
             width: 100%;
             height: 100%;
             top:0;
@@ -147,8 +147,8 @@
                 <div class="vc-block">
                     <div class="vc-img-frame">
                         <div class="vc-img p_relative">
+                            <div class="vc-img-overlay-1 p_absolute"></div>
                             <div class="vc-img-overlay p_absolute">
-                                <div class="vc-img-overlay-1"></div>
                                 <div class="vc-img-overlay-head">
                                     Prof Uchefula Ugonna Chukwumaeze
                                 </div>
