@@ -95,7 +95,7 @@
         .welcome-content{
             color: #34414d;
             margin-top: 1.8em;
-            padding-right: 3.7em;
+            padding-right: 10em;
         }
         .welcome-btn{
             margin-top: 2em;
