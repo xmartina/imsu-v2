@@ -141,7 +141,7 @@
             left: 0;
             cursor: pointer;
         }
-        .vc-img-overlay-1{
+        .vc-img-overlay-1:hover{
             opacity: .2;
         }
     </style>
